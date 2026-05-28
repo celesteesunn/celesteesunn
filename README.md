@@ -1,6 +1,6 @@
 # Hi, I'm Sunaina Samala
 
-.
+
 🌱B.Tech Final Year Data Science Student
 
 💻Learning Python for Machine Learning and Java for DSA

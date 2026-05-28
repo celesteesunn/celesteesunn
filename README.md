@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Sunaina Samala
 
-<!--
-**celesteesunn/celesteesunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.
+🌱B.Tech Final Year Data Science Student
+💻Learning Python for Machine Learning and Java for DSA
+🤖Interested in Artificial Intelligence, Data Science, and Software Development
+📚Currently exploring Git, GitHub, and Frontend Development
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML
+* CSS
+* SQL
+* Python
+* Java
+* Git & GitHub
+
+## Projects
+
+### Student Placement Prediction
+
+Machine learning project for predicting placement chances based on student data.
+
+### Portfolio Website
+
+Personal portfolio website using HTML and CSS.
+
+### SQL Database Project
+
+Database queries and database management using SQL.
+
+### Java DSA Practice
+
+Practicing problem-solving and DSA concepts using Java.
+
+## Currently Learning
+
+* Machine Learning with Python
+* Artificial Intelligence Fundamentals
+* Data Structures and Algorithms using Java
+* Git & GitHub Workflow
+* Frontend Development Basics
+
+## Goals
+
+* Build real-world AI and software projects
+* Improve problem-solving skills
+* Prepare for internships and placements
+* Grow as a software developer
+
+## Connect With Me
+
+GitHub: github.com/celesteesunn
+LinkedIn: linkedin.com/in/sunaina-samala

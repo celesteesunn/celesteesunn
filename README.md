@@ -2,8 +2,11 @@
 
 .
 🌱B.Tech Final Year Data Science Student
+
 💻Learning Python for Machine Learning and Java for DSA
+
 🤖Interested in Artificial Intelligence, Data Science, and Software Development
+
 📚Currently exploring Git, GitHub, and Frontend Development
 
 ## Skills
